@@ -1,2 +1,7 @@
 # hello-world
-test repository
+
+A ver que puta madre hace esta chingadera!
+Espero que funcione bien y logre aprender facilmente a utilizar GitHub
+
+Segundo cambio
+y probando...
